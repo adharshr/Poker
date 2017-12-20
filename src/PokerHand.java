@@ -1,6 +1,5 @@
 /* Adharsh Ranganathan
  * 3/20/17
- * Limeade Coding Challenge
  * 
  * PokerHand represents a 5 card
  * Texas Hold'Em hand. PokerHands can be
