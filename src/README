@@ -1,0 +1,24 @@
+Hi,
+
+This is my response to the Poker question provided
+by the Limeade recruiter.
+
+I have implemented an object called PokerHand that has a 
+compareTo method (similar to how a priority queue in java works).
+
+The summary for the Platform Intern role also mentions how 
+you want someone who values unit testing, so I took the time
+write a JUnit test file to test all my PokerHand class.
+It took me a while to write the JUnit file, so I hope 
+you take the time to look at it.
+
+The program can be started by running MyClient.java
+
+Thanks for allowing me to take this challenge. This was
+an interesting problem and I hope my PokerHand implementation
+and JUnit test file meet Limeade's standards.
+
+I hope to hear back from you soon :)
+
+Thanks,
+Adharsh
