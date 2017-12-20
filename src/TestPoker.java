@@ -1,5 +1,4 @@
 /* Adharsh Ranganathan
- * Limeade Coding Challenge
  * 
  * These are my test cases for my PokerHand class.
  * I went with a mostly black-box testing approach.
